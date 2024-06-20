@@ -1,5 +1,5 @@
 "use client";
-import { Locale } from "@/i18n.config";
+import { Locale } from "../../../i18n.config";
 import LocaleSwitch from "@/components/LocaleSwitch/LocaleSwitch";
 import logo from "../../assets/logo-mvpn.png";
 import { useState } from "react";
