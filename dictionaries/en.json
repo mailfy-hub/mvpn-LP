@@ -1,0 +1,99 @@
+{
+  "languages": {
+    "ptbr": "Português",
+    "en": "English",
+    "es": "Español"
+  },
+  "header": {
+    "beggin": "Home",
+    "about": "About Us",
+    "faq": "FAQ",
+    "contact": "Contact Us",
+    "enter": "Log In"
+  },
+  "carroussel": {
+    "firstCard": {
+      "welcome": "WELCOME",
+      "welcomeText": "TO MVPN FINANCE FINANCIAL CONSULTING.",
+      "title": "Guaranteed Investments",
+      "subtitle": "Investments that fit your budget with great returns",
+      "button": "Learn how now"
+    },
+    "secondCard": {
+      "welcome": "WELCOME",
+      "welcomeText": "TO MVPN FINANCE FINANCIAL CONSULTING.",
+      "title": "We Simplify the Complex",
+      "subtitle": "The investment market seems complex, but we teach you.",
+      "button": "Click here"
+    },
+    "thirdCard": {
+      "welcome": "WELCOME",
+      "welcomeText": "TO MVPN FINANCE FINANCIAL CONSULTING.",
+      "title": "Join Us!",
+      "subtitle": "Start taking better care of your assets through the best investments available in the market.",
+      "button": "Learn more"
+    }
+  },
+  "about": {
+    "us": "ABOUT US",
+    "history": "Our History",
+    "firstText": "A trader for 16 years in the variable income market and 7 years in the fixed income market, our specialist and CEO Marcos Vinicius left his public position at the São Paulo Public Security Department in 2016 and founded MVPN Finance Financial Consulting, a group formed to provide financial guidance to ordinary people so that they could achieve higher profits than conventional investments offer through good risk management.",
+    "secondText": "The group also conducts financial education seminars aimed at improving the personal financial conditions of the general public and provides free financial consulting to indebted individuals as part of the volunteer work carried out by our CEO Marcos Vinicius. Additionally, the group offers courses in the variable income market and financial education. Ultimately, our goal is to help you achieve the much-desired financial independence, but always with a grounded approach based on strict risk control and responsible asset management education."
+  },
+  "faq": {
+    "faq": "FAQ",
+    "question": "Do you have any questions?",
+
+    "questionOne": "What is financial guidance and why is it important?",
+    "textOne": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionTwo": "What services do you offer?",
+    "textTwo": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionThree": "How can I schedule a consultation?",
+    "textThree": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionFour": "How much does financial guidance cost?",
+    "textFour": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionFive": "Do you offer investment services?",
+    "textFive": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionSix": "Do you handle all types of financial situations?",
+    "textSix": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "still": "Still have questions?",
+    "stillText": "No problem, we have a team available to answer all your questions",
+    "btn": "Contact us"
+  },
+  "contact": {
+    "title": "CONTACT",
+    "subtitle": "Get in Touch",
+    "labelOne": "What is your name?",
+    "placeholderOne": "Enter your name",
+    "labelTwo": "What is your contact email?",
+    "placeholderTwo": "Enter your email",
+    "labelThree": "What do you want to talk about?",
+    "placeholderThree": "Enter the subject",
+    "labelFour": "Could you give us more details?",
+    "placeholderFour": "Enter the details",
+    "sendBtn": "Send form",
+    "text": "We will try to respond to your contact as soon as possible.",
+    "end": "Sincerely",
+    "endStrong": "MVPN Finance."
+  },
+  "footer": {
+    "text": "We help ordinary people",
+    "textStrong": "achieve financial freedom",
+    "textEnd": "through good risk management.",
+    "button": "Log In",
+    "institucional": "INSTITUTIONAL",
+    "talkToUs": "TALK TO US",
+    "email": "contact@flizbar.com.br",
+    "number": "+55 (11) 98501-4825",
+    "visit": "PAY US A VISIT",
+    "address": "Rua Restinga 113 - Room 907 - Tatuapé, São Paulo - SP, ZIP Code 03065-020",
+    "useTerms": "terms of use",
+    "privacy": "privacy policies"
+  }
+}

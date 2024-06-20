@@ -1,0 +1,99 @@
+{
+  "languages": {
+    "ptbr": "Português",
+    "en": "English",
+    "es": "Español"
+  },
+  "header": {
+    "beggin": "Inicio",
+    "about": "Sobre Nosotros",
+    "faq": "FAQ",
+    "contact": "Contáctenos",
+    "enter": "Iniciar Sesión"
+  },
+  "carroussel": {
+    "firstCard": {
+      "welcome": "BIENVENIDO",
+      "welcomeText": "A MVPN FINANCE CONSULTORÍA FINANCIERA.",
+      "title": "Inversiones Garantizadas",
+      "subtitle": "Inversiones que se ajustan a su presupuesto con grandes rendimientos",
+      "button": "Aprende cómo ahora"
+    },
+    "secondCard": {
+      "welcome": "BIENVENIDO",
+      "welcomeText": "A MVPN FINANCE CONSULTORÍA FINANCIERA.",
+      "title": "Simplificamos lo Complejo",
+      "subtitle": "El mercado de inversiones parece complejo, pero nosotros te enseñamos.",
+      "button": "Haz clic aquí"
+    },
+    "thirdCard": {
+      "welcome": "BIENVENIDO",
+      "welcomeText": "A MVPN FINANCE CONSULTORÍA FINANCIERA.",
+      "title": "¡Únete a Nosotros!",
+      "subtitle": "Comienza a cuidar mejor tu patrimonio a través de las mejores inversiones disponibles en el mercado.",
+      "button": "Saber más"
+    }
+  },
+  "about": {
+    "us": "SOBRE NOSOTROS",
+    "history": "Nuestra Historia",
+    "firstText": "Trader durante 16 años en el mercado de renta variable y 7 años en el mercado de renta fija, nuestro especialista y CEO Marcos Vinicius dejó su puesto público en la Secretaría de Seguridad Pública de São Paulo en 2016 y fundó MVPN Finance Consultoría Financiera, un grupo formado para brindar orientación financiera a personas comunes para que, a través de una buena gestión de riesgos, pudieran obtener mayores ganancias que las inversiones convencionales ofrecen.",
+    "secondText": "El grupo también realiza seminarios de educación financiera dirigidos a mejorar las condiciones financieras personales del público en general y brinda consultoría financiera gratuita a personas endeudadas como parte del trabajo voluntario realizado por nuestro CEO Marcos Vinicius. Además, el grupo ofrece cursos en el mercado de renta variable y en educación financiera. En última instancia, nuestro objetivo es ayudarte a alcanzar la tan deseada independencia financiera, pero siempre con los pies en la tierra y basado en un estricto control de riesgos y en una educación y gestión responsable del patrimonio."
+  },
+  "faq": {
+    "faq": "FAQ",
+    "question": "¿Tienes alguna pregunta?",
+
+    "questionOne": "¿Qué es la orientación financiera y por qué es importante?",
+    "textOne": "Springerdata ofrece una variedad de opciones de facturación, incluyendo planes de suscripción mensual y anual, así como precios de pago por uso para ciertos servicios. El pago generalmente se realiza a través de una tarjeta de crédito u otro método de pago en línea seguro.",
+
+    "questionTwo": "¿Qué servicios ofrecen?",
+    "textTwo": "Springerdata ofrece una variedad de opciones de facturación, incluyendo planes de suscripción mensual y anual, así como precios de pago por uso para ciertos servicios. El pago generalmente se realiza a través de una tarjeta de crédito u otro método de pago en línea seguro.",
+
+    "questionThree": "¿Cómo puedo programar una consulta?",
+    "textThree": "Springerdata ofrece una variedad de opciones de facturación, incluyendo planes de suscripción mensual y anual, así como precios de pago por uso para ciertos servicios. El pago generalmente se realiza a través de una tarjeta de crédito u otro método de pago en línea seguro.",
+
+    "questionFour": "¿Cuánto cuesta la orientación financiera?",
+    "textFour": "Springerdata ofrece una variedad de opciones de facturación, incluyendo planes de suscripción mensual y anual, así como precios de pago por uso para ciertos servicios. El pago generalmente se realiza a través de una tarjeta de crédito u otro método de pago en línea seguro.",
+
+    "questionFive": "¿Ofrecen servicios de inversión?",
+    "textFive": "Springerdata ofrece una variedad de opciones de facturación, incluyendo planes de suscripción mensual y anual, así como precios de pago por uso para ciertos servicios. El pago generalmente se realiza a través de una tarjeta de crédito u otro método de pago en línea seguro.",
+
+    "questionSix": "¿Manejan todo tipo de situaciones financieras?",
+    "textSix": "Springerdata ofrece una variedad de opciones de facturación, incluyendo planes de suscripción mensual y anual, así como precios de pago por uso para ciertos servicios. El pago generalmente se realiza a través de una tarjeta de crédito u otro método de pago en línea seguro.",
+
+    "still": "¿Aún tienes preguntas?",
+    "stillText": "No hay problema, tenemos un equipo disponible para responder todas tus preguntas",
+    "btn": "Contáctanos"
+  },
+  "contact": {
+    "title": "CONTACTO",
+    "subtitle": "Ponte en contacto",
+    "labelOne": "¿Cuál es tu nombre?",
+    "placeholderOne": "Ingresa tu nombre",
+    "labelTwo": "¿Cuál es tu correo electrónico de contacto?",
+    "placeholderTwo": "Ingresa tu correo electrónico",
+    "labelThree": "¿Sobre qué quieres hablar?",
+    "placeholderThree": "Ingresa el asunto",
+    "labelFour": "¿Podrías darnos más detalles?",
+    "placeholderFour": "Ingresa los detalles",
+    "sendBtn": "Enviar formulario",
+    "text": "Intentaremos responder a tu contacto lo más rápido posible.",
+    "end": "Atentamente",
+    "endStrong": "MVPN Finance."
+  },
+  "footer": {
+    "text": "Ayudamos a personas comunes a",
+    "textStrong": "alcanzar la libertad financiera",
+    "textEnd": "a través de una buena gestión de riesgos.",
+    "button": "Iniciar Sesión",
+    "institucional": "INSTITUCIONAL",
+    "talkToUs": "HABLA CON NOSOTROS",
+    "email": "contacto@flizbar.com.br",
+    "number": "+55 (11) 98501-4825",
+    "visit": "VEN A VISITARNOS",
+    "address": "Rua Restinga 113 - Sala 907 - Tatuapé, São Paulo - SP, Código Postal 03065-020",
+    "useTerms": "términos de uso",
+    "privacy": "políticas de privacidad"
+  }
+}

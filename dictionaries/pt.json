@@ -1,0 +1,99 @@
+{
+  "languages": {
+    "ptbr": "Português",
+    "en": "English",
+    "es": "Espanõl"
+  },
+  "header": {
+    "beggin": "Início",
+    "about": "Sobre a empresa",
+    "faq": "FAQ",
+    "contact": "Contate-nos",
+    "enter": "Entrar"
+  },
+  "carroussel": {
+    "firstCard": {
+      "welcome": "BEM-VINDO",
+      "welcomeText": "À MVPN FINANCE CONSULTORIA FINANCEIRA.",
+      "title": "Investimentos garantidos",
+      "subtitle": "Investimentos que cabem no seu bolso com ótimos rendimentos",
+      "button": "Saiba como agora"
+    },
+    "secondCard": {
+      "welcome": "BEM-VINDO",
+      "welcomeText": "À MVPN FINANCE CONSULTORIA FINANCEIRA.",
+      "title": "Simplificamos o que é complicado",
+      "subtitle": "O mercado de investimentos parece algo complexo, mas nós ensinamos você.",
+      "button": "Clique aqui"
+    },
+    "thirdCard": {
+      "welcome": "BEM-VINDO",
+      "welcomeText": "À MVPN FINANCE CONSULTORIA FINANCEIRA.",
+      "title": "Junte-se a nós!",
+      "subtitle": " Comece a cuidar melhor do seu patrimônio, através dos melhores investimentos disponíveis no mercado.",
+      "button": "Saiba mais"
+    }
+  },
+  "about": {
+    "us": "SOBRE NÓS",
+    "history": "Nossa história",
+    "firstText": "Trader há 16 anos operando o mercado de renda variável e há 7 anos operando o mercado de renda fixa, nosso especialista e CEO Marcos Vinicius em 2016 deixou seu cargo público na Secretaria de Segurança pública de São Paulo e fundou a MVPN Finance Consultoria Financeira, um grupo formado para realizar orientações financeiras a pessoas comuns para que as mesmas através de uma boa gestão de risco pudessem obter lucros maiores do que os investimentos convencionais oferecem.",
+    "secondText": "O grupo também realiza palestras de educação financeira visando melhorar as condições de finanças pessoais do público em geral e ainda realiza consultoria financeira gratuita a pessoas endividadas como parte do trabalho voluntário realizado pelo nosso CEO Marcos Vinicius. Além destes trabalhos o grupo também tem cursos na área de renda variável e de educação financeira. Por fim, nosso objetivo e lhe ajudar a atingir a tão sonhada independência financeira porém sempre com os pés no chão e baseado em um rígido controle de riscos e em uma educação e gestão responsável de patrimônio."
+  },
+  "faq": {
+    "faq": "FAQ",
+    "question": "Ficou alguma dúvida?",
+
+    "questionOne": "O que é orientação financeira e por que é importante?",
+    "textOne": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionTwo": "Quais serviços vocês oferecem",
+    "textTwo": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionThree": "Como posso agendar uma consulta?",
+    "textThree": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionFour": "Quanto custa a orientação financeira?",
+    "textFour": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionFive": "Vocês oferecem serviços de investimento?",
+    "textFive": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "questionSix": "Vocês lidam com todo tipo de situação financeira?",
+    "textSix": "Springerdata offers a variety of billing options, including monthly and annual subscription plans, as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit card or other secure online payment method.",
+
+    "still": "Ainda está com dúvidas?",
+    "stillText": "Sem problemas, temos uma equipe disponível para retirar todas suas dúvidas",
+    "btn": "Entrar em contato"
+  },
+  "contact": {
+    "title": "CONTATO",
+    "subtitle": "Entre em contato",
+    "labelOne": "Qual seu nome?",
+    "placeholderOne": "Digite seu nome",
+    "labelTwo": "Qual seu e-mail de contato?",
+    "placeholderTwo": "Digite seu e-mail",
+    "labelThree": "Sobre o que você quer tratar?",
+    "placeholderThree": "Digite o assunto",
+    "labelFour": "Poderia nos dar mais detalhes?",
+    "placeholderFour": "Digite os detalhes",
+    "sendBtn": "Enviar formulário",
+    "text": "Tentaremos responder o seu contato o mais rápido possível.",
+    "end": "Atenciosamente",
+    "endStrong": "MVPN Finance."
+  },
+  "footer": {
+    "text": "Nós ajudamos pessoas comuns a",
+    "textStrong": "alcançar liberdade financeira",
+    "textEnd": "através de uma boa gestão de risco.",
+    "button": "Entrar",
+    "institucional": "INSTITUCIONAL",
+    "talkToUs": "FALE COM A GENTE",
+    "email": "contato@flizbar.com.br",
+    "number": "+55 (11) 98501-4825",
+    "visit": "FAÇA UMA VISITA",
+    "address": "Rua Restinga 113 - sala 907 - Tatuapé, São Paulo - SP, CEP 03065-020",
+    "useTerms": "termos de uso",
+    "privacy": "políticas de privacidade"
+  }
+}
